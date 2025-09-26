@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sahilchaubey21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hi, I’m Sahil Chaubey
+-  I’m interested in development and machine learning
+-  I’m currently learning machine learning
+-  I’m looking to collaborate on development
+-  How to reach me at sahilchaubey72@gmail.com
 
 <!---
 Sahilchaubey21/Sahilchaubey21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
